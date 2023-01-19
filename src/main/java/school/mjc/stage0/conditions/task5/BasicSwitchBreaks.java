@@ -8,10 +8,10 @@ public class BasicSwitchBreaks {
                 System.out.println("seven");
             case 10:
                 System.out.println("ten");
-            case 20:
-                System.out.println("twenty");
+            case 30:
+                System.out.println("thirty");
             default:
-                System.out.println("default");
+                System.out.println("twenty");
         }
     }
 }
